@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[enter first]]>
+    </line>
+    <line>
+      <![CDATA[enter second]]>
+    </line>
+    <line>
+      <![CDATA[enter third]]>
+    </line>
+    <line>
+      <![CDATA[enter fourth]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-09-16T00:32:22 IST" name="Default suite" finished-at="2024-09-16T00:33:42 IST" duration-ms="80098">
+    <groups>
+    </groups>
+    <test started-at="2024-09-16T00:32:22 IST" name="Default test" finished-at="2024-09-16T00:33:42 IST" duration-ms="80098">
+      <class name="Program.DeleteLockedMessage">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:Program.DeleteLockedMessage@3a7442c7]" started-at="2024-09-16T00:32:22 IST" name="beforeSuite" finished-at="2024-09-16T00:32:22 IST" duration-ms="30" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:Program.DeleteLockedMessage@3a7442c7]" started-at="2024-09-16T00:32:23 IST" name="beforeTest" finished-at="2024-09-16T00:32:23 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:Program.DeleteLockedMessage@3a7442c7]" started-at="2024-09-16T00:32:23 IST" name="beforeClass" finished-at="2024-09-16T00:32:33 IST" duration-ms="10749" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:Program.DeleteLockedMessage@3a7442c7]" started-at="2024-09-16T00:32:33 IST" name="beforeMethod" finished-at="2024-09-16T00:32:55 IST" duration-ms="21950" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[enter first]]>
+            </line>
+            <line>
+              <![CDATA[enter second]]>
+            </line>
+            <line>
+              <![CDATA[enter third]]>
+            </line>
+            <line>
+              <![CDATA[enter fourth]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="deleteLockedMessage()[pri:0, instance:Program.DeleteLockedMessage@3a7442c7]" started-at="2024-09-16T00:32:55 IST" name="deleteLockedMessage" finished-at="2024-09-16T00:33:22 IST" duration-ms="27038" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteLockedMessage -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:Program.DeleteLockedMessage@3a7442c7]" started-at="2024-09-16T00:33:22 IST" name="afterMethod" finished-at="2024-09-16T00:33:40 IST" duration-ms="17664" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:Program.DeleteLockedMessage@3a7442c7]" started-at="2024-09-16T00:33:40 IST" name="afterClass" finished-at="2024-09-16T00:33:42 IST" duration-ms="2230" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:Program.DeleteLockedMessage@3a7442c7]" started-at="2024-09-16T00:33:42 IST" name="afterTest" finished-at="2024-09-16T00:33:42 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:Program.DeleteLockedMessage@3a7442c7]" started-at="2024-09-16T00:33:43 IST" name="afterSuite" finished-at="2024-09-16T00:33:43 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- Program.DeleteLockedMessage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
